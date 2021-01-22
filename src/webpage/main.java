@@ -1,5 +1,6 @@
 package webpage;
 import java.io.IOException;
+import java.io.InputStream;
 import java.net.InetSocketAddress;
 import java.io.OutputStream;
 //import java.net.InetSocketAddress;
@@ -9,6 +10,7 @@ import com.sun.net.httpserver.HttpExchange;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
+import java.io.InputStreamReader;
 
 import java.util.concurrent.Executors;
 import java.util.concurrent.ThreadPoolExecutor;
@@ -33,7 +35,12 @@ public class main
 		String a = "file read error :(";
 		try
 		{
-			BufferedReader r = new BufferedReader(new FileReader(fileName));
+			//BufferedReader r = new BufferedReader(new FileReader(fileName));
+			//System.out.println("/"+fileName);
+			//System.out.println("/webpage/"+fileName);
+			InputStream is = main.class.getResourceAsStream("/webpage/"+fileName);
+			InputStreamReader isr = new InputStreamReader(is);
+			BufferedReader r = new BufferedReader(isr);
 			String line = r.readLine();
 			a = "";
 			while(line != null)
@@ -41,7 +48,7 @@ public class main
 				a = a + line;
 				line = r.readLine();
 			}
-			r.close();
+			//r.close();
 		}
 		catch(Exception e){e.printStackTrace();}
 		return a;
