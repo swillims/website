@@ -1,0 +1,7 @@
+<body>
+<div class="title">
+This is my website
+</div>
+<div id="left">
+I have this here to add features later.
+</div>
