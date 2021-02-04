@@ -34,13 +34,12 @@
 			With the original scope email guard would scan an email and send a warning that required a confirmation to send the email if it detected any bad words.
 			We had to change the scope because one of the requirements was that it had to be distributable and Microsoft had a policy.
 			The new scope was to have a clickable button that displayed which words were swears.
-			I messed with the project manifest to get the button to work and 33ish% of the button functionality.
+			I messed with the project manifest to get the button to work and 33%ish of the button functionality.
 			I was also responsible for the list of swears.
 			Most of this project was bug fixing and research which was a collaborative effort.
-			
 		</div>
 		<div class="conclusion">
-			Original Scope was invalid<br>
+			Original Scope was infeasible because of Microsoft having sensible security s<br>
 			Alternate Scope complete<br>
 			A on the project do to good explanation for alternate scope and ok documentation on Jira.<br>
 			We could not complete the original scope because Microsoft has a policy prevented people from uploading addins to outlook that override the onsend feature.<br>
@@ -58,8 +57,8 @@
 			Blizzard released api for doing bot games and bot makers made api around that api that makes making a bot to play starcraft2 relatively easy.
 			There is a website for bot tournaments(<a href="https://sc2ai.net/">https://sc2ai.net/</a>).
 			There is a discord server for bot makers(<a href="https://discord.com/invite/zXHU4wM">https://discord.com/invite/zXHU4wM</a>).
-			Our group was 3 member and there are three playable factions in the game and I was in charge of the Terran Faction.
-			I focused on making a good Terran bot and implemented as many features as I could.
+			Our group had 3 members and there are three playable factions in the game. I was in charge of the Terran Faction.
+			I focused on making a good general Terran bot to play a macro game and implemented as many features as I could.
 		</div>
 		<div class="conclusion">
 			Original Scope 95% complete<br>
@@ -77,15 +76,15 @@
 		</div>
 		<div class="itemdes">
 			This was a non-academic Hobby Project.
-			CSS was the main language used. The project used the unity engine to create a phone game.
-			The scope was to expirament with Google Play. 
+			C# was the main language used. The project used the unity engine to create a phone game.
+			The scope was to experiment with Google Play. 
 			The game is a simplistic circle game.
 		</div>
 		<div class="conclusion">
 			Orginal Scope successful but dissapointing<br>
-			I chose android version 4 for the target api and it works and downloads on my 6.0.1 android phone. One of my internet friends stated that it wouldn't let him download it from play store on his version 8 android phone. Research determined revealed that newer devices aren't compatible with old api versions.<br>
-			The process of creating and deploying a simple phone game took almost 2 weeks mostly because of having to go through a less than 1 week review process twice.
-			If I were to do another android project, I would have to worry about compatibility and marketing.
+			I chose android version 4 for the target api and it works and downloads on my 6.0.1 android phone. One of my friend's stated that it wouldn't let him download it from play store on his version 8 android phone. Research revealed that newer devices aren't compatible with old api versions.<br>
+			The process of creating and deploying a simple phone game took almost 2 weeks mostly because of having to go through a less than 1 week review process twice. I didn't have my privacy statement correct, so I had to redo it. I also had to fill out a long survey to have it rated.
+			If I were to do another android project, I would have to worry about compatibility and marketing. This app was released for free and was an experiment. I see no reason to market it.
 			<a href="https://play.google.com/store/apps/details?id=com.me.phoneGame">Phone App</a><br>
 			No Repo used.
 		</div>
@@ -96,13 +95,13 @@
 		</div>
 		<div class="itemdes">
 			This was a non-academic Hobby Project.
-			Main language was java/processing3.
-			The scope was proof of concept for a non-game engine game. 
-			I made a terrible mario clone platformer called salad quest that used processing3 for graphics.
+			Main language was java using processing3.
+			The scope was proof of concept for a non-game engine game.
+			I made a Mario clone platformer called salad quest that used processing3 for graphics and some java code to keep track of objects and have phyiscs.
 		</div>
 		<div class="conclusion">
 			Original Scope successful but dissapointing<br>
-			The proof of concept was successful but I was working with unity for smaller projects at the same time and found that it was so much simpler just to use a game engine.
+			The proof of concept was successful but I was working with unity for smaller projects at the same time and found that it was so much simpler just to use a game engine with preexisting assets. I ran into a performance issue, that was effecting framerate probably from the large png background. With unity, there would be more resources available and online help. I believe the unity solution to that would be to use a mesh instead of a png to make load and framerate easier but I'm not unity expert. If I did switch to mesh from PNG I would have to implement it myself.
 			<a href="https://github.com/swilliams21/SaladQuest">Repository</a><br>
 		</div>
 	</div>
@@ -113,20 +112,17 @@
 		<div class="itemdes">
 			This is a Non-academic semi-professional project.
 			It's literally this.
+			I'm currently working on features and expanding it.
 			I'm making a website to be more professional.
 		</div>
 		<div class="conclusion">
 			Original Scope in progress<br>
-			It's still in progress and I'd like to add more features and improve the css.<br>
-			The pattern suggests I should leave repo or other link but I'd hate to have something link to itself.
-		</div>
-	</div>
-	<div class="item">
-		<div class="itemname">
-		</div>
-		<div class="itemdes">
-		</div>
-		<div class="conclusion">
+			It's still in progress and I'd like to add more features and improve the css.
+			In the last update(revision 1), I made several typing corrections.
+			I'd like to add pictures to my website but I've been very busy and I'm not sure if I want them displayed from server or if I want to retrieve/reference them from a public bucket(Google Cloud Storage).
+			The website looks terrible on mobile.
+			<br><a href="spencerwilliams.info">Website</a>
+			<br><a href="https://github.com/swilliams21/Webpage">Repository</a>
 		</div>
 	</div>
 </body>

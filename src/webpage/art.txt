@@ -1,0 +1,70 @@
+<head>
+	<title>Art</title> <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+	<div id="center">
+		Art
+	</div>
+	<div class="item">
+		<div class="itemname">
+			Current Artistic Goals
+		</div>
+		<div class="itemdes">
+			I'm currently taking a break from most art.
+			I bet my friend I could make a better DnD clone, so my creative vision is consumed by that at the moment.
+			I grossly undestimated the amount of work required for it.
+			Most of my art is on instagram.
+			<a href="https://www.instagram.com/sir_bog_the_original/">instagram</a>
+		</div>
+	</div>
+	<div class="item">
+		<div class="itemname">
+			Salad Art
+		</div>
+		<div class="itemdes">
+			I did a lot of food art. Most of my food art are salads.
+			I like salad art because it's simple and I can focus on small details.
+			Most of the skill for salad art would be picking an angle, composition, lighting, and rotation.
+			It's weirdly satifying art.
+			<br><a href="https://www.instagram.com/p/BnonTQoFGw2/">Example of some early salad art.</a>
+		</div>
+	</div>
+	<div class="item">
+		<div class="itemname">
+			Satirical Noire Art
+		</div>
+		<div class="itemdes">
+			I like to make satire art based on how I view Noire.
+			There's not a lot of it, but it's some of my favorite art.
+			<br><a href="https://www.instagram.com/p/B2w5oqHAtEk/">Example of some Noire art.</a>
+		</div>
+	</div>
+	<div class="item">
+		<div class="itemname">
+			Landscapes
+		</div>
+		<div class="itemdes">
+			I used to do hiking and I have a lot of hiking pictures.
+			<br><a href="https://www.instagram.com/p/BomM25zAczK/">Example of outside.</a>
+		</div>
+	</div>
+	<div class="item">
+		<div class="itemname">
+			Item focus art
+		</div>
+		<div class="itemdes">
+			I like to take pictures of random items that are isolated.
+			The rule for item focus art, is that I am not allowed to create or change it.
+			It's pretty much just me taking pictures of trash outside and putting it on instagram.
+			<br><a href="https://www.instagram.com/p/B6laHzmJTg5/">Example of a stick I found outside in a parking lot.</a>
+		</div>
+	</div>
+	<div class="item">
+		<div class="itemname">
+			Actually Trying
+		</div>
+		<div class="itemdes">
+			I take a few good pictures.
+			<br><a href="https://www.instagram.com/p/Bvo_A82AGKp/">Example of pretty tree flowers</a>
+		</div>
+	</div>
+</body>

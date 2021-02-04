@@ -32,16 +32,17 @@ div
 
 #left, #center
 {
-	background-color: blue;
+	background-color: #0000a0;
 }
 
 #left
 {
-	background-color: #111;
+	background-color: #333;
 	width: 10%;
 	height: 100%;
 	position: fixed;
 	top: 0;
+	bottom: 0;
 }
 
 #center

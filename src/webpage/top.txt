@@ -1,7 +1,9 @@
 <body>
 <div class="title">
-This is my website
+This is my website. It exists to organize my projects that I've done.
 </div>
 <div id="left">
-I have this here to add features later.
+	<a href="/">Home</a><br>
+	<a href="certifications">Certifications</a><br>
+	<a href="art">Art</a><br>
 </div>

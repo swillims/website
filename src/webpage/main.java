@@ -22,6 +22,8 @@ public class main
 		// HttpServer server = HttpServer.create(new InetSocketAddress("localhost", 80), 0);
 		HttpServer server = HttpServer.create(new InetSocketAddress(80), 0);
 		server.createContext("/", new Page("main.txt"));
+		server.createContext("/art", new Page("art.txt"));
+		server.createContext("/certifications", new Page("certifications.txt"));
 		server.createContext("/style.css", new NoTopPage("style.css"));
         server.setExecutor(null);
 		server.start();
