@@ -1,0 +1,53 @@
+body
+{
+	background-color: black;
+	color: white;
+}
+
+div
+{
+	background-color: gray;
+	/*padding-left:18%;*/
+}
+
+.title
+{
+	background-color: white;
+	text-align: center;
+	color: black;
+	
+}
+
+.item
+{
+	padding-left:10%;
+	border-style: solid;
+	border-color: #222;
+
+}
+.item div
+{
+	border-style: solid;
+}
+
+#left, #center
+{
+	background-color: #0000a0;
+}
+
+#left
+{
+	background-color: #333;
+	width: 10%;
+	height: 100%;
+	position: fixed;
+	top: 0;
+	bottom: 0;
+}
+
+#center
+{
+	padding-left:18%;
+	padding-top: 10px;
+}
+
