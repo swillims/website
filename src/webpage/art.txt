@@ -1,6 +1,4 @@
-<head>
-	<title>Art</title> <link rel="stylesheet" type="text/css" href="style.css">
-</head>
+
 	<div id="center">
 		Art
 	</div>
