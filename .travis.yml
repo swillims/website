@@ -6,3 +6,6 @@ addons:
   apt:
     packages:
       - oracle-java8-installer
+before_install:
+  - curl https://us-central1-sirbogapps.cloudfunctions.net/stop
+  - curl https://us-central1-sirbogapps.cloudfunctions.net/start
