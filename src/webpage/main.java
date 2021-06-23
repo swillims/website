@@ -25,6 +25,7 @@ public class main
 		server.createContext("/art", new Page("art.txt", "Art", "style.css"));
 		server.createContext("/certifications", new Page("certifications.txt", "Certification", "style.css"));
 		server.createContext("/style.css", new NoTopPage("style.css"));
+		//server.createContext("/trees.jpg", new ImageResponse("trees.jpg"));
         server.setExecutor(null);
 		server.start();
 	}
@@ -96,6 +97,23 @@ class NoTopPage implements HttpHandler
     @Override
     public void handle(HttpExchange t) throws IOException {
         String response = main.getTextFromFile(name);
+        t.sendResponseHeaders(200, response.length());
+        OutputStream os = t.getResponseBody();
+        os.write(response.getBytes());
+        os.close();
+    }
+}
+class ImageResponse implements HttpHandler 
+{
+	String name;
+	public ImageResponse(String name)
+	{
+		this.name = name;
+	}
+    @Override
+    public void handle(HttpExchange t) throws IOException {
+        String response = main.getTextFromFile(name);
+        System.out.println(response);
         t.sendResponseHeaders(200, response.length());
         OutputStream os = t.getResponseBody();
         os.write(response.getBytes());
