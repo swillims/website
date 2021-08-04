@@ -68,4 +68,3 @@
 			<br><a href="https://www.instagram.com/p/Bvo_A82AGKp/">Example of pretty tree flowers</a>
 		</div>
 	</div>
-</body>

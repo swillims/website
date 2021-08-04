@@ -49,4 +49,3 @@
 			I'm probably going to start studying for it again once, I'm done improving this website because there aren't any large projects I want to work on in immediate future and I think it's more important than small projects.
 		</div>
 	</div>
-</body>
