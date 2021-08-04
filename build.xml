@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-   <project name="webpage" default="info">
-   <target name="info">
-      <echo>boop</echo>
-   </target>
-</project>
