@@ -45,7 +45,7 @@
 			<br><a href="https://www.instagram.com/p/BomM25zAczK/">Example of outside.</a>
 		</div>
 		<div class="picture">
-			<img src="https://storage.googleapis.com/spencerwilliams.info/images/trees.png" alt="Picture of Trees">
+			<img src="/images/trees.png" alt="Picture of Trees">
 		</div>
 	</div>
 	<div class="item">
