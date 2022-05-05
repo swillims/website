@@ -37,6 +37,7 @@
 		</div>
 	</div>
 	<div class="item">
+		<img src="/images/trees.png" alt="Picture of Trees">
 		<div class="itemname">
 			Landscapes
 		</div>
