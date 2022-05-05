@@ -29,7 +29,11 @@ div
 {
 	border-style: solid;
 }
-
+.item img
+{
+	max-width: 20%;
+	height: auto;
+}
 #left, #center
 {
 	background-color: #0000a0;
