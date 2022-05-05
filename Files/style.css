@@ -15,9 +15,9 @@ img
 	max-width: 20%;
 	height: auto;
 	/* float: right; */
-	/* clear: right; */
-	margin-right: auto;
-	display: block;
+	clear: right;
+	/* margin-right: auto;
+	display: block; */
 }
 
 .title
@@ -38,6 +38,16 @@ img
 .item div
 {
 	border-style: solid;
+}
+
+.itemname
+{
+	clear: left;
+}
+
+.itemdef
+{
+	clear: left;
 }
 
 #left, #center
