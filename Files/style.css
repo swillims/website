@@ -14,7 +14,7 @@ img
 {
 	max-width: 20%;
 	height: auto;
-	/* float: right; */
+	float: right;
 	clear: right;
 	/* margin-right: auto;
 	display: block; */
