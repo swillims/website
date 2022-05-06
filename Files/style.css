@@ -8,13 +8,14 @@ div
 {
 	background-color: gray;
 	/*padding-left:18%;*/
+	clear: both;
 }
 
 img
 {
 	max-width: 20%;
 	height: auto;
-	float: right;
+	/* float: right; */
 	clear: right;
 	/* margin-right: auto;
 	display: block; */
