@@ -17,8 +17,8 @@ img
 	height: auto;
 	
 	float: right;
-	clear: both;
-	display: table;
+	/*clear: both;
+	display: table; */
 	/* display: table-column; */
 	/* float: right; */
 	/* float: right; */
@@ -41,12 +41,18 @@ img
 	border-color: #222;
 	clear: left;
 }
-
+.item::after
+{
+	content: "";
+	clear: both;
+	display: table;
+}
+/*
 .item div
 {
 	border-style: solid;
 }
-
+*/
 .itemname
 {
 	/* clear: none; */
