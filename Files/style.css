@@ -32,7 +32,7 @@ img
 	padding-left:10%;
 	border-style: solid;
 	border-color: #222;
-
+	clear: left;
 }
 
 .item div
@@ -42,12 +42,12 @@ img
 
 .itemname
 {
-	clear: left;
+	clear: none;
 }
 
 .itemdef
 {
-	clear: left;
+	clear: none;
 }
 
 #left, #center
