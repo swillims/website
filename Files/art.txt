@@ -37,7 +37,6 @@
 		</div>
 	</div>
 	<div class="item">
-		<img src="/images/trees.png" alt="Picture of Trees">
 		<div class="itemname">
 			Landscapes
 		</div>
@@ -45,6 +44,7 @@
 			I used to do hiking and I have a lot of hiking pictures.
 			<br><a href="https://www.instagram.com/p/BomM25zAczK/">Example of outside.</a>
 		</div>
+		<img src="/images/trees.png" alt="Picture of Trees">
 	</div>
 	<div class="item">
 		<div class="itemname">
