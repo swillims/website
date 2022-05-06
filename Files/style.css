@@ -15,7 +15,11 @@ img
 {
 	max-width: 20%;
 	height: auto;
-	display: table-column;
+	
+	float: right;
+	clear: both;
+	display: table;
+	/* display: table-column; */
 	/* float: right; */
 	/* float: right; */
 	/* clear: both; */
