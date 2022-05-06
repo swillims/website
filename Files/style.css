@@ -8,7 +8,7 @@ div
 {
 	background-color: gray;
 	/*padding-left:18%;*/
-	clear: both;
+	/* clear: both; */
 }
 
 img
@@ -43,12 +43,12 @@ img
 
 .itemname
 {
-	clear: none;
+	/* clear: none; */
 }
 
 .itemdef
 {
-	clear: none;
+	/* clear: none; */
 }
 
 #left, #center
