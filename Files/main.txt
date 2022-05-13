@@ -3,6 +3,7 @@
 		Projects
 	</div>
 	<div class="item">
+		<img src="/images/projectt1.png" alt="Picture of text based game">
 		<div class="itemname">
 			Escape the Tower
 		</div>
