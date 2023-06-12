@@ -19,3 +19,14 @@
 			The actual website part of the website is still in early development because I keep getting distracted. I'd also like to expirament with getting video to work and refactoring .jar file that parses the website. The writing on website is really bad because it's early development.
 		</div>
 	</div>
+	<div class="item">
+		<div class="itemname">
+			Contact info	
+		</div>
+		<div class="itemdes">
+			I'm not willing to give out most of my contact info.
+			old github: https://github.com/swilliams21
+			current github1: https://github.com/swillims
+			current email: spencer.d.williams123@gmail.com - I assume most random emails are spammers and scammers, so title it "hey, I read your website" if you choose to contact me.
+		</div>
+	</div>
