@@ -41,7 +41,7 @@
 			Alternate Scope complete<br>
 			A on the project do to good explanation for alternate scope and ok documentation on Jira.
 			<br>We could not complete the original scope because Microsoft has a policy prevented people from uploading addins to outlook that override the onsend feature.
-			<br>I can't link the repository because private repo.
+			<br>I can't link the repository because private repo and I also don't have access to my old github account.
 		</div>
 	</div>
 	<div class="item">
@@ -63,7 +63,7 @@
 			We got an "A" on the project because of very good documentation on Jira and most features implemented on Jira.
 			I never did tournament or bot ladder but I did manage to create a Terran bot that beat elite(highest level AI from Blizzard) in a best of 5.
 			The project is in a state where it could be a good hobby if I chose to pursue it.
-			The API used was in a not good place last time I checked. To get it to work, I would have to redownload from the dev branch.
+			The API used was in a not good place last time I checked. To get it to work, I would have to redownload from the dev branch. It's on my list of things to do.
 			<br><a href="https://sc2ai.net/">https://sc2ai.net/</a>
 			<br><a href="https://github.com/rwprice31/StarcraftAI">Repository</a>
 		</div>
@@ -110,16 +110,16 @@
 		<div class="itemdes">
 			This is a Non-academic semi-professional project.
 			It's literally this.
-			I'm currently working on features and expanding it.
-			I'm making a website to be more professional.
+			I'm currently working on features and expanding it to make it more proffesional.
+			I lost access to my old domain name and github account(unrelated to eachother) so I had to get a new domain name and I also had to create a new repo to work with. The website has an automated reset and pulls the repo every 4 hours, so that also had to be reconfigured a little but but was easy.
 		</div>
 		<div class="conclusion">
 			Original Scope: still in progress<br>
 			It's still in progress and I'd like to add more features and improve the css.
 			In the last update(revision 1), I made several typing corrections.
 			I'd like to add pictures to my website but I've been very busy and I'm not sure if I want them displayed from server or if I want to retrieve/reference them from a public bucket(Google Cloud Storage).
-			The website looks terrible on mobile.
-			<br><a href="spencerwilliams.info">Website</a>
-			<br><a href="https://github.com/swilliams21/Webpage">Repository</a>
+			The website looks terrible on mobile. 
+			<br><a href="spencerw.net">Website</a>
+			<br><a href="https://github.com/swillims/website">Repository</a>
 		</div>
 	</div>

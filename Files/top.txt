@@ -3,6 +3,7 @@ This is my website. It exists to organize my projects that I've done.
 </div>
 <div id="left">
 	<a href="/">Home</a><br>
+	<a href="aboutme">About Me</a><br>
 	<a href="certifications">Certifications</a><br>
-	<a href="art">Art</a><br>
+	<!-- <a href="art">Art</a><br> -->
 </div>

@@ -1,4 +1,4 @@
 # Webpage
-This is a personal website that is intended to be run as a .jar file. Ignore the travis file. I don't have a test file. I'm just using it to ping 2 cloud functions.
+This is a personal website that is intended to be run with a custom .jar file.
 The information for the .jar is stored somewhere else.
-# spencerwilliams.info
+# spencerw.net

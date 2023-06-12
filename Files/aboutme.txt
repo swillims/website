@@ -1,0 +1,21 @@
+
+	<div id="center">
+		About Me
+	</div>
+	<div class="item">
+		<div class="itemname">
+			Who am I?
+		</div>
+		<div class="itemdes">
+			My name is Spencer Williams. I am interested in a job with software development. I am also interested in branching out into devops.
+			I'm pretty often looking to bpick a new a new hobby or project.
+		</div>
+	</div>
+	<div class="item">
+		<div class="itemname">
+			What problems am I working on?
+		</div>
+		<div class="itemdes">
+			The actual website part of the website is still in early development because I keep getting distracted. I'd also like to expirament with getting video to work and refactoring .jar file that parses the website. The writing on website is really bad because it's early development.
+		</div>
+	</div>
