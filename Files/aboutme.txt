@@ -12,13 +12,13 @@
 		</div>
 	</div>
 	<div class="item">
+		<img src="/images/networkproblemgcp.png" alt="picture of bad data">
 		<div class="itemname">
 			What problems am I working on?
 		</div>
 		<div class="itemdes">
 			The actual website part of the website is still in early development because I keep getting distracted. I'd also like to expirament with getting video to work and refactoring .jar file that parses the website. The writing on website is really bad because it's early development. The html/css need a lot of work.
 			<br> Outside of the coding for the .jar file and the data it parses, the website occasionally has downtime problems. The automated restart through cloud shcedular and cloud functions eventually fixes it. I'm theory crafting around changing my deployment to something that is cheaper or has more uptime. I believe the problem is with my vm being premptible and availability. 
-			<img src="/images/networkproblemgcp.png" alt="picture of bad data">
 		</div>
 	</div>
 	<div class="item">
