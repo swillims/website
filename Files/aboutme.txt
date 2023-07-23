@@ -16,7 +16,9 @@
 			What problems am I working on?
 		</div>
 		<div class="itemdes">
-			The actual website part of the website is still in early development because I keep getting distracted. I'd also like to expirament with getting video to work and refactoring .jar file that parses the website. The writing on website is really bad because it's early development.
+			The actual website part of the website is still in early development because I keep getting distracted. I'd also like to expirament with getting video to work and refactoring .jar file that parses the website. The writing on website is really bad because it's early development. The html/css need a lot of work.
+			<br> Outside of the coding for the .jar file and the data it parses, the website occasionally has downtime problems. The automated restart through cloud shcedular and cloud functions eventually fixes it. I'm theory crafting around changing my deployment to something that is cheaper or has more uptime. I believe the problem is with my vm being premptible and availability. 
+			<img src="/images/networkproblemgcp.png" alt="picture of bad data">
 		</div>
 	</div>
 	<div class="item">
@@ -24,7 +26,7 @@
 			Contact info	
 		</div>
 		<div class="itemdes">
-			I'm not willing to give out most of my contact info.
+			I'm not willing to give out most of my contact info because this website is publically available on the internet. There are creepy psychotic weirdos on the internet. I don't want to get murdered.
 			old github: https://github.com/swilliams21
 			current github1: https://github.com/swillims
 			current email: spencer.d.williams123@gmail.com - I assume most random emails are spammers and scammers, so title it "hey, I read your website" if you choose to contact me.
