@@ -78,7 +78,10 @@ img
 	top: 0;
 	bottom: 0;
 }
-
+a.left
+{
+	color: #ffcc00;
+}
 #center
 {
 	padding-left:18%;
