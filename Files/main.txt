@@ -66,6 +66,7 @@
 			The API used was in a not good place last time I checked. To get it to work, I would have to redownload from the dev branch. It's on my list of things to do.
 			<br><a href="https://sc2ai.net/">https://sc2ai.net/</a>
 			<br><a href="https://github.com/rwprice31/StarcraftAI">Repository</a>
+			<br><a href="https://github.com/swilliams21/sc2dump/tree/master/Make%20it%20Work">new repo to try to get project working</a>
 		</div>
 	</div>
 	<div class="item">
