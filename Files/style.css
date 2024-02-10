@@ -81,6 +81,11 @@ img
 #left a
 {
 	color: #ffcc00;
+	font-size: 160%;
+}
+#left a:hover
+{
+	color #ff0000;
 }
 #center
 {
