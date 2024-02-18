@@ -73,6 +73,7 @@
 			It's different enough to be considered a new project.
 			<br><a href="https://github.com/swillims/starcraftbot">Current Repository</a>
 			<br><a href="https://github.com/BurnySc2/python-sc2">API used</a>
+		</div>
 	</div>
 	<div class="item">
 		<div class="itemname">
