@@ -27,7 +27,12 @@ img
 	/* margin-right: auto;
 	display: block; */
 }
-
+video
+{
+	float: right;
+	max-width: 20%;
+	height: auto;
+}
 .title
 {
 	background-color: white;
